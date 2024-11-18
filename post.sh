@@ -25,6 +25,7 @@ ${time_line}
 categories: [testing, basic]
 tags: [posts, tests]     # TAG names should always be lowercase
 author: eric
+media_subpath: /assets/img/
 ---
 
 # ${title}
