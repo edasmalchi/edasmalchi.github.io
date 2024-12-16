@@ -11,14 +11,15 @@ time=$(date +"%H:%M:%S -0800")
 time_line="date: ${date_string} ${time}"
 
 # Create the file name with the date and custom name
-file_name="${date_string}_${title}.md"
+file_name="${date_string}-${title}.md"
 
-# Create the file
-touch "$file_name"
+# Create the file and image directory
+touch "${file_name}"
+mkdir "../assets/img/${date_string}_${title}"
 
 # Add header
 
-cat << EOF > $file_name
+cat << EOF > "$file_name"
 ---
 ${title_line}
 ${time_line}
