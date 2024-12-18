@@ -2,7 +2,7 @@
 title: The Journey Begins
 date: 2019-04-30 20:46:30 -0800
 categories: [archive, pct]
-tags: [posts, pct, hiking, travel]     # TAG names should always be lowercase
+tags: [pct, hiking, travel]     # TAG names should always be lowercase
 author: eric
 media_subpath: /assets/img/
 ---

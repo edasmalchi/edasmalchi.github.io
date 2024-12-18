@@ -15,7 +15,7 @@ file_name="${date_string}-${title}.md"
 
 # Create the file and image directory
 touch "${file_name}"
-mkdir "../assets/img/${date_string}_${title}"
+mkdir "../assets/img/${date_string}-${title}"
 
 # Add header
 
@@ -26,10 +26,9 @@ ${time_line}
 categories: [testing, basic]
 tags: [posts, tests]     # TAG names should always be lowercase
 author: eric
-media_subpath: /assets/img/
+media_subpath: /assets/img/${date_string}-${title}/
 ---
 
-# ${title}
 EOF
 
 echo "File created: $file_name"
