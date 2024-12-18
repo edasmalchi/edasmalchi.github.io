@@ -25,3 +25,7 @@ package-lock.json
 # Misc
 _sass/dist
 assets/js/dist
+.DS_Store
+Parcels___Active_and_Retired_20241103.csv
+__pycache__/
+.ipynb_checkpoints
