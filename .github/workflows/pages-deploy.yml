@@ -11,6 +11,11 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+  
+  schedule:
+    # refresh ferry counter
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '38 16 * * *'
 
 permissions:
   contents: read
