@@ -14,9 +14,9 @@ old landlord for illegally withholding my security deposit. I won.*
 
 In [Part 1](/posts/la_apartments_1), I wrote about the apartment my roommates and I rented from LA Apartments for almost 4 years and the various reasons I should have received the full \$1000 security deposit back (no damage beyond wear and tear, failure to conduct a compliant initial inspection).
 
-As you might be able to guess by now, they did not return my full deposit. Instead they attempted to give me less than 20% of my money back, withholding $560 for “painting – full paint” and $155 for “cleaning”:
+As you might be able to guess by now, they did not return my full deposit. Instead they attempted to give me less than 20% of my money back, withholding $560 for “painting – full paint” and $155 for “cleaning”.
 
-<object data="/assets/img/2025-02-22-la_apartments_2/landlord_letter.pdf" width="700" height="1000" type='application/pdf'></object>
+[pdf of what they sent me](/assets/img/2025-02-22-la_apartments_2/landlord_letter.pdf)
 
 ## Custom Design Fur Corporation
 
@@ -46,4 +46,52 @@ So I sent LA Apartments/Custom Design Fur Corp a letter:
 
 *Pro tip: you don't get to file a detailed complaint but the judge might read your letter later, so it's good to lay it all out and put some effort in!*
 
-<object data="/assets/img/2025-02-22-la_apartments_2/demand_letter.pdf" width="700" height="1000" type='application/pdf'></object>
+[demand letter pdf link](/assets/img/2025-02-22-la_apartments_2/demand_letter.pdf)
+
+> ### Demand for Return of Security Deposit
+> 
+> To whom it may concern,
+> 
+> I leased an apartment located at 3333 Mentone Avenue Apt ## Los Angeles, CA 90034 from September ##, 2019 until August ##, 2023. LA Apartments is the property manager, while Custom Design Fur Corporation is the entity that I paid rent to (via personal checks to “CDF”). This letter will refer to either or both as “landlord”.
+> 
+> The landlord improperly withheld a large portion of my security deposit, including \$560 for “painting – full paint” and \$155 for “cleaning”. I am asking for the full amount that I believe is owed to me, a total of \$881.96 out of the original $1000 deposit.
+> 
+> #### Landlord failed to properly conduct an initial inspection as required by state law.
+> 
+> I scheduled an initial inspection with  (property manager) and  (maintenance director). We agreed on Monday August 7, 11:30AM. I was present, and they both arrived at about that time.  stayed to complete the inspection, but when I asked for the statement at the end of the inspection he refused to provide it.
+> 
+> This is contrary to state law, which requires the statement be handed to the tenant at the time of the inspection (see CIV1950.5 (f)(2)1, California Tenants Guide2 p.72). Despite following up via email and receiving a response from , the statement from the initial inspection was never provided. I vacated the unit a week later on August 14.
+> 
+> As spelled out in Civil Code 1950.5, the entire purpose of the initial inspection is to allow the tenant the opportunity to fix things and avoid deductions from the security (CIV1950.5 (f)(3), quoted below).
+> 
+> (3) The tenant shall have the opportunity during the period following the initial inspection until termination of the tenancy to remedy identified deficiencies, in a manner consistent with the rights and obligations of the parties under the rental agreement, in order to avoid deductions from the security.
+> 
+> By failing to provide the statement, the landlord denied me that opportunity, in violation of my rights under California law.
+> 
+> #### There is no allowable deduction for paint after a 3 year 10 month tenancy. Additionally, the paint was in good condition except for wear and tear.
+> 
+> Interior paint, like everything else, wears out over time. A generally accepted approach in California is to assume interior paint has a useful life of either 2 or 3 years, and that tenants may not be charged for repainting beyond that period, regardless of the condition of the paint (California Tenants Guide p.75). Even assuming the longer useful life, my tenancy was well over 3 years at 3 years and 10 months.
+> 
+> Additionally, I have photos and videos showing that the paint was in good condition when I moved out, except for expected wear and tear over a 3 year and 10 month period.
+> 
+> #### The unit was sufficiently clean when I moved out.
+> 
+> Upon moving out, my obligation as the tenant is to ensure the unit is as clean as it was when I moved in (see CIV1950.5 (b)(3)). I did so, and can show it with photos comparing the condition when I moved in to when I moved out.
+> 
+> Apparently the landlord did not agree. Again, the landlord had an opportunity, in fact an obligation, to spell that out in the initial inspection statement and indicate exactly which kind of additional cleaning they believed was required.
+> 
+> As mentioned above, the landlord failed to follow the law by never providing the initial inspection statement.
+> 
+> #### For the above reasons, I am entitled to a refund of $881.96.
+> 
+> I paid a deposit of \$1000 when I moved in in September 2019. The landlord deducted \$118.04 for final utilities, this amount is not in dispute. However, as outlined above, the further deductions of \$560 for “painting – full paint” and \$155 for “cleaning” are improper and I am entitled to a refund of the remaining balance: \$881.96.
+> 
+> With the printed copy of this letter I am returning, unendorsed and undeposited, the check in the amount of \$166.96 from the landlord’s August 24 letter.
+> 
+> I ask that you mail me a check for the full \$881.96 to my new address, which again is  Los Angeles, CA 90034.
+> 
+> If I do not receive the refund by Friday, September 22nd 2023 I may take further action as required, including filing a lawsuit. As you may be aware, Civil Code 1950.5 (l) provides for the potential of statutory damages up to twice the amount of actual damages being awarded, in addition to actual damages, should we go to court.
+> 
+> Sincerely,
+> Eric Dasmalchi
+> 
