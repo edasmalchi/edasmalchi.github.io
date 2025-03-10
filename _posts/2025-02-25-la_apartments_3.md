@@ -36,8 +36,7 @@ Edited for privacy, including to remove the names of LA Apartments/Custom Design
 > 
 > LA Apartments
 
-I got this email 9 days after sending my [demand letter](/assets/img/2025-02-22-la_apartments_2/demand_letter.pdf)
-. First of all, it shows that just by sending the letter they were willing to refund another \$560. Not bad, and I wouldn't judge anybody in a similar situation for stopping here and settling.
+I got this email 9 days after sending my [demand letter](/assets/img/2025-02-22-la_apartments_2/demand_letter.pdf). First of all, it shows that just by sending the letter they were willing to refund another \$560. Not bad, and I wouldn't judge anybody in a similar situation for stopping here and settling.
 
 But, in my case I was certain that they could not charge me for cleaning, either. Plus I didn't like how LA Apartments had tried to raise my rent illegally multiple times and then blatantly refused to give me the initial inspection statement. So I chose not to settle, at least not for the \$560.
 
@@ -83,7 +82,8 @@ The Judicial Council has a [pretty great website](https://selfhelp.courts.ca.gov
 
 The Judicial Council's website suggests referring to your lease to determine your landlord's actual legal entity, but my lease was actually not of much help. It lists an "WSV, LLC" as the owner and makes no mention of Custom Design Fur Corporation beyond stating that rent should be payable to "CDF".
 
-![screenshot of first page of apartment lease showing only the acronyms "WSV" and "CDF" for ownership and rent payment](lease.png)
+> ![screenshot of first page of apartment lease showing only the acronyms "WSV" and "CDF" for ownership and rent payment](lease.png)
+>
 
 This information is not enough to find LA Apartments' correct legal entity to sue, and I can only conclude it reflects their attempt to intentionally obfuscate it. WSV, by the way, seems to be short for Westside Village, LLC since that entity shares the same address and agent as Custom Design Fur Corporation.
 
