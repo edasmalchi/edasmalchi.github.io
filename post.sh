@@ -7,7 +7,7 @@ title="$1"
 date_string=$(date +%Y-%m-%d)
 
 title_line="title: ${title}" 
-time=$(date +"%H:%M:%S -0800")
+time=$(date +"%H:%M:%S -0700")
 time_line="date: ${date_string} ${time}"
 
 # Create the file name with the date and custom name
