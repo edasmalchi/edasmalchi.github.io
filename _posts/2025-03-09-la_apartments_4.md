@@ -34,7 +34,7 @@ And then I won.
 
 ## Trial #2
 
-On January 25, 2024, I went to trial again. Custom Design Fur Corporation filed a motion to vacate saying that they "Didn't feel well on the day of the hearing". This seemed unreasonable for a couple of reasons, namely that they had shown up to my house the night before and that a company can be represented by _any_ of its employees in a small claims hearing and they probably didn't all get sick. So I was prepared to fight it, until I got the unwelcome news that the Secretary of State... didn't finish serving them after all due to a bureocratic mixup (pro tip: insist that they take *all* your paperwork even if they say they don't need it).
+On January 25, 2024, I went to trial again. Custom Design Fur Corporation filed a motion to vacate saying that they "Didn't feel well on the day of the hearing". This seemed unreasonable for a couple of reasons, namely that they had shown up to my house the night before and that a company can be represented by _any_ of its employees in a small claims hearing and they probably didn't all get sick. So I was prepared to fight it, until I got the unwelcome news that the Secretary of State... didn't finish serving them after all due to a bureaucratic mixup (pro tip: insist that they take *all* your paperwork even if they say they don't need it).
 
 While they obviously had actual notice, I for one believe in doing things the right way so I called the court for advice and they said to just show up to the hearing and tell the judge. So I did, and the judge granted their motion to vacate and asked me and their representative if we were ready for the new hearing on the spot. Which we were, so I got to tell my story all over again.
 
