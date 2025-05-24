@@ -2,7 +2,7 @@
 
 ## Mostly Empty Building Notes
 
-When I moved in, I was the first tenant and second resident after the property manager. Hardly any cars parked on the street yet, and Citywide Park looked like a construction site, not the almost-finished park that it is today. I got uses to the building's layout, smells, noises. I went on "exit walks", which is what I used to call walking around the staircases and exits of my grandma's condo building.
+When I moved in, I was the first tenant and second resident after the property manager. Hardly any cars parked on the street yet, and Cityside Park looked like a construction site, not the almost-finished park that it is today. I got uses to the building's layout, smells, noises. I went on "exit walks", which is what I used to call walking around the staircases and exits of my grandma's condo building.
 
 
 
@@ -18,4 +18,6 @@ Our mostly empty lounge was filled with acoustic covers of The Beatles, Pet Shop
 
 Growing up in the Bay Area, we often referred to San Francisco as "The City". I now want to remind myself that Treasure Island, is very much part of the City, so I've decided on referring to the non-island parts as "The Mainland", or "Mainland SF". When I go to the Mainland I sometimes feel like an ambassador of sorts. The librarian stared at my address when I got my library card, asking if it was on Treasure Island and then asking me how I could possibly get around. On the ferry, I heard remarks like "I hear those studios are awfully small". For the record, I quite like mine.
 
-I get my haircuts and my groceries at Embarcadero Center
+I get my haircuts and my groceries at Embarcadero Center. Between that and the Ferry Building itself, there’s just enough going on by the waterfront to make living on the island almost convenient. I buy more things in cans than I used to. I fit one grocery bag in my backpack and carry one more - almost always to the Treasure Island Ferry but sometimes to the Muni 25 bus.
+
+These days, things are busier on the island. I’m rarely the only one on the ferry, and occasionally it’s even packed with tourists. I’m no longer surprised when someone gets in the elevator with me, and we even have an occasional line for the Nespresso machine in our building lobby. I know my neighbors at least well enough to borrow a muffin tin.
