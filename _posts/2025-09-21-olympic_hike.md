@@ -72,7 +72,7 @@ Besides that we had things like instant ramen, couscous, tuna packets, a few fre
 
 ### Day 3: Hyak to Deer Lake
 
-The Bogachiel trail in this section seemed minimally traveled but was in good enough shape. As the trail was just beginning to climb out of the balcony, we heard a rumbling in the bushes and saw bushes and leaves shake away from us and up the hill. Could have been a bear.
+The Bogachiel trail in this section seemed minimally traveled but was in good enough shape. As the trail was just beginning to climb out of the valley, we heard a rumbling in the bushes and saw bushes and leaves shake away from us and up the hill. Could have been a bear.
 
 On the divide around Mile 23 we got cell service and made a few calls. We hadn't seen anybody else since leaving Hyak, but finally passed by somebody as we dropped down towards Deer Lake. Deer Lake was cute and somewhat buggy, and busy enough to feel like a mini village. I didn't quite understand the campground layout and started to set up camp within somebody else's site (we had permits but they aren't tied to particular sites). Later I found an empty one in a low meadow so we picked up and moved. There was an old penny in the dirt and plenty of bugs so I decided on "Camp Pennybug" for a name.
 
