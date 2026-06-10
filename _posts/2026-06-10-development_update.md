@@ -9,7 +9,7 @@ media_subpath: /assets/img/2026-06-10-development_update/
 
 ## Introduction: Horizontal and Vertical Development
 
-Development on Treasure Island happens in stages. Following overall plans and developments agreements, Treasure Island Community Development (TICD) proposes subphrases which are then reviewed by the Treasure Island Development Authority (TIDA). Those are available [here](https://www.sf.gov/resource--2022--development-project-approved-plans-and-documents) under "Major Phase and Subphase Applications".
+Development on Treasure Island happens in stages. Following overall plans and development agreements, Treasure Island Community Development (TICD) proposes subphrases which are then reviewed by the Treasure Island Development Authority (TIDA). Those are available [here](https://www.sf.gov/resource--2022--development-project-approved-plans-and-documents) under "Major Phase and Subphase Applications".
 
 Once that is done and other approvals are in place, horizontal development can begin. This includes things like geotechnical improvements, grading, streets, sidewalks, pathways and utilities.
 
@@ -29,7 +29,7 @@ When complete, Trade Winds Ave and Clipper Cove Ave will extend two more blocks 
 
 ![Green lawn with sprinklers running surrounded by planted areas with some benches. In background, Golden Gate and Mainland San Francisco skyline.](hotel_parcel.jpeg)
 
-The lot along the western edge of Avenue of the Palms north of Bruton St has long been planned as a hotel, however market conditions don't seem ready to support that development any time soon. While I believe the parcel remains in private ownership, the developer has turned it into a quick-build open space that will be open to the public soon.
+The lot along the western edge of Avenue of the Palms north of Bruton St has long been planned as a hotel, however market conditions don't seem ready to support its construction any time soon. While I believe the parcel remains in private ownership, the developer has turned it into a quick-build open space that will be open to the public soon.
 
 A hotel could still be built on the site eventually, but I've also heard talk of keeping this parcel a permanent park and accommodating the hotel elsewhere.
 
@@ -37,7 +37,7 @@ A hotel could still be built on the site eventually, but I've also heard talk of
 
 Located at Seven Seas Ave and Johnson St, the temporary lot will provide about 100 spaces for residents. These spaces will be available at $75/month for affordable housing residents, and $250/month for market-rate residents per this [June 6 TIDA presentation](https://media.api.sf.gov/documents/HIITS_Presentation_060126.pdf).
 
-Space on TI is limited, and primarily dedicated to housing people with great parks and amenities rather than parking. The development plans reflect this, but it's also true that the first phases of development proceeded without most of the transportation plan being implemented, and with a lack of on-street parking management.
+Space on TI is limited, and primarily dedicated to housing people with great parks and amenities rather than parking for cars. The development plans reflect this, but it's also true that the first phases of development proceeded without most of the transportation plan being implemented, and with a lack of on-street parking management.
 
 I hope this temporary lot will reduce parking pressure and give the city time to implement and communicate the transportation plan, even if it would have been best to see that happen before new residents moved in.
 
