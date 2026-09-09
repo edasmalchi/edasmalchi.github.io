@@ -1,4 +1,11 @@
-# Emergency!
+---
+title: Emergency!
+date: 2026-09-09 13:19:59 -0700
+categories: [treasure island, transportation]
+tags: [ti, transportation]     # TAG names should always be lowercase
+author: eric
+media_subpath: /assets/img/2026-09-09-emergency/
+---
 
 ## "Engine 51, Truck 51..."
 
@@ -14,7 +21,7 @@ Around 10:30 am on Tuesday, June 9 2026 a semi truck lost control and departed t
 
 For now, Macalla Road provides the only vehicular access connecting Treasure Island with the Bay Bridge and the outside world. It's located on one of the steeper slopes of Yerba Buena Island. Macalla currently has one general purpose lane in each direction, plus a sidewalk and uphill-only protected bike lane. When Treasure Island Road reopens, Macalla will convert to one-way downhill operation, with Treasure Island Road handling uphill traffic.
 
-*first image showing crash*
+![Jackknifed semi truck blocking entire roadway, with a tow truck and people around.](truck.jpeg)
 
 ## The Response
 
@@ -28,7 +35,7 @@ The Treasure Island Ferry provided some additional trips. Buses of course could 
 
 The roadway reopened at around 1:45pm.
 
-*image showing bus*
+![wider scene from Treasure Island Ferry Terminal to causeway and Macalla Road hill with stuck truck. A bus, paratransit vehicle, fire truck, and police cars are visible.](stuck_bus.jpeg)
 
 ## The Future
 
@@ -38,4 +45,4 @@ Even an ebike is a pretty good insurance policy – the truck actually didn't bl
 
 A less disruptive version of this actually happened again – on Tuesday September 1 a vehicle crashed on an offramp to Yerba Buena Island, with the response closing both offramp to the islands for a few hours. It still seemed possible to *leave* the islands by road during that time, making it less of a hazard but still a bummer for anyone needing to get home.
 
-*image showing quickmap*
+![screenshot of Caltrans Quickmap showing CHP Incident 260901GG0643](quickmap.png)
